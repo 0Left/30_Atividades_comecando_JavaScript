@@ -1,0 +1,2 @@
+Utilizando do console do navegador.
+Nesta tarefá aprenderei a realizar continhas no Console.

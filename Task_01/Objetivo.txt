@@ -1,0 +1,2 @@
+Pedir o nome e a idade do usuário e escrever essas informações de uma forma amigável.
+Utilizando do console do navegador.

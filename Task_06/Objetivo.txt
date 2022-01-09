@@ -1,0 +1,3 @@
+Utilizando do console do navegador.
+Calcular as horas extras de um funcionário a partir das horas semanais trabalhadas.
+considerar a carga horaria do profissional de 44 horas semanais.

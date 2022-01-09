@@ -1,0 +1,2 @@
+Utilizando do console do navegador.
+Exibir o dia da Semana por Extenso.

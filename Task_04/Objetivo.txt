@@ -1,0 +1,2 @@
+Utilizando do console do navegador.
+Validar se o Usuario pode ou não iniciar o processo de CNH.

@@ -7,7 +7,7 @@
     % Módulo (resto da divisão e não o resultado)
     ** Exponenciação (Elevado à)
 
-    Operadores Relacionais
+    Operadores Relacionais 
     == Igual à
     != Desigual à
     >  Maior que

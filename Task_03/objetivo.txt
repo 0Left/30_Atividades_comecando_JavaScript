@@ -1,0 +1,2 @@
+Utilizando do console do navegador.
+Calcular a media de venda a partir dos valores vendidos em cada um dos meses do primeiro trimestre de 2018 de um vendedor

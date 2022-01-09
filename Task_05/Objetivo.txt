@@ -1,0 +1,2 @@
+Utilizando do console do navegador.
+Verificar se é dia, tarde ou noite e mostrar uma mensagem personalizada.

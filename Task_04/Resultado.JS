@@ -26,3 +26,4 @@ if(parseInt(idadeInput)>=18){
 }else{
     console.log("O candidato " + nomeInput + " não está apto à iniciar o processo");
 }
+

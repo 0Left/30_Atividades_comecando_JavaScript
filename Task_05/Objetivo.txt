@@ -1,2 +1,5 @@
 Utilizando do console do navegador.
 Verificar se é dia, tarde ou noite e mostrar uma mensagem personalizada.
+
+
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Date

@@ -1,0 +1,6 @@
+Utilizando do console do navegador.
+
+Dia 8 - Missão: Efetuar uma das 4 operações matemáticas básicas.
+
+Objetivo:
+    Estrutura de decisão switch (caso)

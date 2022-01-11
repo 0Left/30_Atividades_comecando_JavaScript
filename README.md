@@ -1,3 +1,2 @@
 30_Atividades_comecando_JavaScript
-Iniciando Sprint_01
-Iniciando Dia_01
+Voltando ao normal pois já aprendi um tequinho de branch

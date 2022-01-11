@@ -1,2 +1,10 @@
 Utilizando do console do navegador.
 Exibir o dia da Semana por Extenso.
+Utilizando do console do navegador.
+
+Dia 7 - Missão: Exibir dia da
+semana por extenso.
+
+Objetivo:
+    Estrutura de decisão if (se)
+    Estrutura de decisão switch (caso)

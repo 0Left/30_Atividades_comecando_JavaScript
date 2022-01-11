@@ -1,2 +1,9 @@
 Utilizando do console do navegador.
-Calcular a media de venda a partir dos valores vendidos em cada um dos meses do primeiro trimestre de 2018 de um vendedor
+
+Dia 3 - Missão: Calcular a média de venda à
+partir dos valores vendidos em cada um dos
+meses do 1º Trim de 2018 de um vendedor
+
+Objetivo:
+    Declarar variáveis
+    Conversão de valores

@@ -1,5 +1,4 @@
 30_Atividades_comecando_JavaScript
-
-`n
-
-Voltando ao normal pois já aprendi um tequinho de branch
+/n/n
+Aproveitei para atualizar todos os objetivos depois de achar uma extensão para
+copiar texto de imagens (Blackbox).

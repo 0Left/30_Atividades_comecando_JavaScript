@@ -1,2 +1,6 @@
 Utilizando do console do navegador.
-Nesta tarefá aprenderei a realizar continhas no Console.
+
+Dia 2 - Missão: Realizar contas no console.
+
+Objetivo:
+    Trabalhar com operadores matemáticos em Javascript

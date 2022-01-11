@@ -1,2 +1,7 @@
 Utilizando do console do navegador.
-Validar se o Usuario pode ou não iniciar o processo de CNH.
+
+Dia 4 - Missão: Validar se um candidato
+pode ou não iniciar o processo de CNH
+
+Objetivo:
+    Estrutura de decisão if (se)

@@ -1,3 +1,9 @@
 Utilizando do console do navegador.
-Calcular as horas extras de um funcionário a partir das horas semanais trabalhadas.
-considerar a carga horaria do profissional de 44 horas semanais.
+
+Dia 6 - Missão: Calcular as horas extras de
+um funcionário a partir das horas semanais
+trabalhadas. Considerar a carga horária do
+funcionário de 44 horas por semana.
+
+Objetivo:
+   Estrutura de decisão if (se)

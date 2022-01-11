@@ -1,5 +1,9 @@
 Utilizando do console do navegador.
-Verificar se é dia, tarde ou noite e mostrar uma mensagem personalizada.
 
+Dia 5 - Missão: Verificar se é dia, tarde ou noite
+e mostrar uma mensagem personalizada.
 
+Objetivo:
+     Estrutura de decisão if (se)
+     Objeto Date
 https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Date

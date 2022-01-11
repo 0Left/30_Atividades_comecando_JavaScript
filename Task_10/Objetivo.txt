@@ -1,0 +1,3 @@
+Saimos do Console (finalmente)
+A task é instalar uma IDE, o que eu já estava usando.
+mas tem um exemplo legal de como usar a tag <Script> no html.

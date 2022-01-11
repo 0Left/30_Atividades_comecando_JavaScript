@@ -1,0 +1,5 @@
+Utilizando do console do navegador.
+
+Dia 9 - Missão: Verificando confirmação para o usuário.
+Objetivo:
+  Estrutura de decisão if (caso)

@@ -1,0 +1,3 @@
+Dia 12 - Missão: Calcular a média de N alunos.
+Objetivo:
+  Laço de repetição (while)

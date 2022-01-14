@@ -1,0 +1,3 @@
+Dia 13 - Missão: Calcular a média de N números.
+Objetivo:
+    Laço de repetição (while)

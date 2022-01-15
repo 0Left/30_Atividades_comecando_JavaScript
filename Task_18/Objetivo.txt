@@ -1,0 +1,16 @@
+Dia 17 - Missão: Era uma vez o JavaScript
+Objetivo:
+  • Conhecendo mais sobre o JavaScript
+Primeiro, JavaScript é DIFERENTE de Java.
+
+Para iniciarmos nossa conversa sobre JavaScript, vale avisar que ela
+é a linguagem de programação nativa da Web. Qualquer navegador
+que você esteja utilizando,dá suporte ao JS, afinal ele é utilizado 
+para dar dinamismo a nossas páginas.
+
+Graças ao JS, aumentamos a usabilidade do usuário nas páginas web.
+Um exemplo é quando clicamos em alguma categoria no menu de
+algum site, ele filtra os conteúdos. Isso só é possível com JavaScript.
+
+É uma linguagem bastante poderosa que permite que o usuário
+consiga interagir com a página.

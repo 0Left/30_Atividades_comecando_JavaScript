@@ -1,0 +1,20 @@
+<script>
+    //Define Array
+    var carros = ["Carro1" , "Carro2" , "Carro3" , "Carro4" , "Carro5"];
+    var contador = 0;
+    //Array.lenght mostra quantas "casas" tem dentro desta array
+    // carros.lenght retornaria 5
+    // para acessar um item em uma array, usa-se Array[Index]
+    // sendo que o Index começa no 0
+    // carros[-] por exemplo tem do index 0 ao 4, com 5 itens
+    console.log(carros.length);
+    while(contador<=4){
+        carros[contador] = prompt("Informe o modelo do carro nº " + contador , "Digite aqui");
+        contador++;
+    }
+    contador = 0;
+    while(contador <= 4){
+        console.log("Modelo nº "+ contador +": " + carros[contador]);
+        contador++;
+    }
+</script>

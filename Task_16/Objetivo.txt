@@ -1,0 +1,7 @@
+Dia 16 - Missão: Adicionando e removendo elementos da lista de carros
+Objetivo:
+    Utilizando Array
+    Métodos do Array
+
+Nesse site aqui tem uma lista de referencia das documentações de javascript
+https://overapi.com/javascript

@@ -1,0 +1,24 @@
+<script>
+    var nomes = [];
+    var telefones = [];
+    var cidades = [];
+    var novoContato = "S";
+    var contador = 0;
+    while(novoContato == "S"){
+        nomes[contador] = prompt("Informe o nome","Digite Aqui");
+        telefones[contador] = prompt("Informe o telefone","Digite Aqui");
+        cidades[contador] = prompt("Informe a cidade","Digite Aqui");
+        novoContato = prompt("Cadastrar novo contato?[S]im / [N]ao","Digite Aqui");
+        contador++
+    }
+    for(i = 0;i < nomes.length ;i++){
+        console.log("Nome: " + nomes[i]);
+        console.log("Telefone: " + telefones[i]);
+        console.log("Cidade: " + cidades[i]);
+        console.log("--------");
+    }
+//Fortissimo esse exemplo viu
+//uma estruturinha simples que explica bem como encaixar diferentes loop's em seus momentos
+
+</script>
+

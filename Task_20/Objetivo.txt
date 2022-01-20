@@ -1,0 +1,7 @@
+Dia 20 - Missão: Exibir os alunos de uma lista
+Objetivo:
+    Laço de repetição(for)
+        for
+        for..in
+        while
+        do..while

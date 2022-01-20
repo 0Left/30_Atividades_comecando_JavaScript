@@ -1,0 +1,4 @@
+Dia 19 - Missão: Dicionário de animais
+Objetivo:
+    Array
+    Laço de repetição

@@ -1,0 +1,23 @@
+<script>
+
+    //Esse script me fez lembrar a importancia de padronizar o nome das variaveis
+    //Passei um tempinho tentando entender o que tinha feito de errado, esqueci do "c" maiusculo
+    var nomeCurso = prompt ("Informe o nome do curso", "Digite aqui");
+    var codigoCurso = prompt("Informe o codigo do curso" , "Digite aqui");
+    var conteudoCurso = [];
+    var novoConteudo = "S";                                 
+    var conteudoTemp = "";
+    var contador = 0;
+    while(novoConteudo == "S"){
+        conteudoTemp = prompt("Inforne o conteudo do curso" , "Digite aqui");
+        conteudoCurso.push(conteudoTemp);
+        novoConteudo = prompt("Deseja cadastrar un novo conteúdo para o curso?[S]im / [N]ao" , "Digite aqu1");
+    }
+    console.log("Codigo: "+ codigoCurso);
+    console.log("Curso: "+ nomeCurso);
+    console.log("Conteudo: ");
+    while(contador < conteudoCurso.length){
+        console.log(conteudoCurso[contador]);             
+        contador++;
+    }
+</script>

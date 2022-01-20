@@ -1,6 +1,6 @@
 Dia 17 - Missão: Era uma vez o JavaScript
 Objetivo:
-  • Conhecendo mais sobre o JavaScript
+    Conhecendo mais sobre o JavaScript
 Primeiro, JavaScript é DIFERENTE de Java.
 
 Para iniciarmos nossa conversa sobre JavaScript, vale avisar que ela
